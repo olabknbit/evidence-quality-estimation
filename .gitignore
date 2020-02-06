@@ -5,11 +5,7 @@ __pycache__/
 abs/
 base_ensemble_sklearn.py
 build/
-data/alta_2011_shared_task
-data/ebmsumcorpus
-data/ebmsumcorpus.zip
-data/mixed
-data/publication_types
+data/
 ensemble_bandit.py
 filename.py
 ignored.py
